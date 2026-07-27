@@ -97,14 +97,6 @@
 
 <div align="center">
   <picture>
-    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardPlesa&theme=github_dark" alt=""/>
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EduardPlesa&show_icons=true&hide_border=true&bg_color=00000000&title_color=e4e4e7&icon_color=8b5cf6&text_color=a1a1aa&ring_color=8b5cf6">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=EduardPlesa&show_icons=true&hide_border=true&bg_color=00000000&title_color=1e1b4b&icon_color=7c3aed&text_color=52525b&ring_color=7c3aed">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardPlesa&show_icons=true&hide_border=true&bg_color=00000000&title_color=e4e4e7&icon_color=8b5cf6&text_color=a1a1aa&ring_color=8b5cf6" alt=""/>
