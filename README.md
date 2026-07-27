@@ -119,14 +119,6 @@
 
 <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardPlesa&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=e4e4e7&text_color=a1a1aa">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardPlesa&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1e1b4b&text_color=52525b">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardPlesa&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=e4e4e7&text_color=a1a1aa" alt=""/>
-  </picture>
-</div>
-
 <br/>
 
 <div align="center">
