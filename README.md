@@ -16,41 +16,6 @@
 
 ---
 
-### 👋 &nbsp;About Me
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-<br/>
-
-I'm a **fullstack developer** who likes owning a feature from the database schema all the way to the button someone actually clicks. Most of my time goes into **.NET** and **Node.js** on the backend, **React + TypeScript** on the front, and lately into wiring **AI into products where it earns its place** — not where it just looks impressive in a demo.
-
-Right now I'm building AI-powered engineering tools and full-stack applications, and teaching myself the applied side of ML: retrieval, evaluation, and everything that happens after the model returns a response.
-
-&nbsp;&nbsp; 🔭 &nbsp; Building AI-powered engineering tools & full-stack apps
-<br/>
-&nbsp;&nbsp; 🌱 &nbsp; Learning applied ML — RAG, evals, model deployment
-<br/>
-&nbsp;&nbsp; 💬 &nbsp; Ask me about React, .NET, Node.js and AI-driven features
-<br/>
-&nbsp;&nbsp; ⚡ &nbsp; Fun fact: classic engineering + modern AI tooling is my favourite combo
-
-<br/>
-
-</td>
-<td width="35%" align="center" valign="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="190" alt=""/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
 ### 🧰 &nbsp;Tech Stack
 
 <br/>
@@ -132,6 +97,16 @@ Right now I'm building AI-powered engineering tools and full-stack applications,
 
 <div align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardPlesa&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardPlesa&theme=default">
+    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardPlesa&theme=github_dark" alt=""/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EduardPlesa&show_icons=true&hide_border=true&bg_color=00000000&title_color=e4e4e7&icon_color=8b5cf6&text_color=a1a1aa&ring_color=8b5cf6">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=EduardPlesa&show_icons=true&hide_border=true&bg_color=00000000&title_color=1e1b4b&icon_color=7c3aed&text_color=52525b&ring_color=7c3aed">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardPlesa&show_icons=true&hide_border=true&bg_color=00000000&title_color=e4e4e7&icon_color=8b5cf6&text_color=a1a1aa&ring_color=8b5cf6" alt=""/>
@@ -168,24 +143,6 @@ Right now I'm building AI-powered engineering tools and full-stack applications,
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EduardPlesa&no-frame=true&no-bg=true&row=1&column=7&theme=algolia" alt=""/>
-</div>
-
-<br/>
-
----
-
-### 🎯 &nbsp;What I'm Working On
-
-<br/>
-
-<div align="center">
-
-| &nbsp; | Focus | Details |
-|:---:|:---|:---|
-| 🤖 | **AI Systems** | RAG pipelines, LLM integration, retrieval & evaluation |
-| 🌐 | **Full-Stack** | React + TypeScript, Node.js, .NET, REST & GraphQL APIs |
-| 🧩 | **Research** | LLMs, AI automations, MLOps, system design, open source |
-
 </div>
 
 <br/>
