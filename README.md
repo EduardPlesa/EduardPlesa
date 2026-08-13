@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,35:1e1b4b,70:312e81,100:4c1d95&text=George%20Eduard%20Plesa&fontColor=f4f4f5&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%20%7C%20%20AI-Driven%20Features%20%20%7C%20%20.NET%20%C2%B7%20React%20%C2%B7%20Node&descAlignY=58&descSize=15&descColor=c4b5fd" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,35:1e1b4b,70:312e81,100:4c1d95&text=George%20Eduard%20Plesa&fontColor=f4f4f5&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%20%7C%20%20.NET%20%C2%B7%20React%20%C2%B7%20Node&descAlignY=58&descSize=15&descColor=c4b5fd" width="100%" alt=""/>
 
 </div>
 
@@ -79,7 +79,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34" alt=""/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" alt=""/>
 <br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="34" alt=""/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" alt=""/>
 
 </td>
@@ -97,11 +96,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EduardPlesa&show_icons=true&hide_border=true&bg_color=00000000&title_color=e4e4e7&icon_color=8b5cf6&text_color=a1a1aa&ring_color=8b5cf6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=EduardPlesa&show_icons=true&hide_border=true&bg_color=00000000&title_color=1e1b4b&icon_color=7c3aed&text_color=52525b&ring_color=7c3aed">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardPlesa&show_icons=true&hide_border=true&bg_color=00000000&title_color=e4e4e7&icon_color=8b5cf6&text_color=a1a1aa&ring_color=8b5cf6" alt=""/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardPlesa&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardPlesa&theme=default">
+    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardPlesa&theme=github_dark" alt=""/>
   </picture>
-  &nbsp;&nbsp;
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=EduardPlesa&hide_border=true&background=00000000&ring=8b5cf6&fire=a78bfa&currStreakLabel=e4e4e7&sideLabels=a1a1aa&currStreakNum=e4e4e7&sideNums=a1a1aa&dates=52525b">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=EduardPlesa&hide_border=true&background=00000000&ring=7c3aed&fire=6d28d9&currStreakLabel=1e1b4b&sideLabels=52525b&currStreakNum=1e1b4b&sideNums=52525b&dates=a1a1aa">
@@ -110,6 +113,14 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardPlesa&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=e4e4e7&text_color=a1a1aa">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardPlesa&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1e1b4b&text_color=52525b">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardPlesa&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=e4e4e7&text_color=a1a1aa" alt=""/>
+  </picture>
+</div>
 
 <br/>
 
@@ -125,6 +136,16 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EduardPlesa&no-frame=true&no-bg=true&row=1&column=7&theme=algolia" alt=""/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardPlesa/EduardPlesa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardPlesa/EduardPlesa/output/github-contribution-grid-snake.svg">
+    <img width="95%" src="https://raw.githubusercontent.com/EduardPlesa/EduardPlesa/output/github-contribution-grid-snake.svg" alt=""/>
+  </picture>
 </div>
 
 <br/>
