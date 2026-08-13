@@ -107,6 +107,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=EduardPlesa&no-frame=true&no-bg=true&row=1&column=7&theme=matrix" alt=""/>
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardPlesa/EduardPlesa/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardPlesa/EduardPlesa/output/github-contribution-grid-snake.svg">
