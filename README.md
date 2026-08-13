@@ -107,20 +107,6 @@
 <br/>
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardPlesa&theme=gotham" alt=""/>&nbsp;
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EduardPlesa&theme=gotham" alt=""/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardPlesa&theme=gotham" alt=""/>&nbsp;
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EduardPlesa&theme=gotham&utcOffset=3" alt=""/>
-</div>
-
-<br/>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardPlesa/EduardPlesa/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardPlesa/EduardPlesa/output/github-contribution-grid-snake.svg">
